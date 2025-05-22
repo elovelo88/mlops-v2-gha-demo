@@ -24,7 +24,7 @@ variables:
 
   # For pipeline reference
   resource_group: ResourceGroup1
-  aml_workspace: azuremlws515663224574414 
+  aml_workspace: Azuremlws51566419 
   application_insights: azuremlws515663484402188
   key_vault: azuremlws515660235049633
   container_registry: azuremlcr51566419
